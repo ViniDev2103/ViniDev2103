@@ -11,7 +11,7 @@
 
 <div align="center" style="margin-top:10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=ViniDev2103&show_icons=true&count_private=true&hide_border=true&title_color=2C26DF&icon_color=F7D849&text_color=A9FEF7&bg_color=0d1117" height="150" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/blob/master/api/top-langs/?username=ViniDev2103&layout=compact&hide_border=true&title_color=A9FEF7&text_color=A9FEF7&bg_color=0d1117" height="150" alt="Top Languages">
+  <img src="https://github-readme-stats/blob/master/api/top-langs?username=ViniDev2103&layout=compact&hide_border=true&title_color=A9FEF7&text_color=A9FEF7&bg_color=0d1117" height="150" alt="Top Languages">
 </div>
 
 <div class="skills-section">
